@@ -107,7 +107,13 @@ def _log_exc(where: str):
 
 @st.cache_data
 def load_settings():
-    with open(P("config/settings.yaml"), "r", encoding="utf-8") as f:
+    path = P("config/settings.yaml")
+    if not os.path.exists(path):
+        # Cloud deploys don't have settings.yaml (git-ignored, holds local-only
+        # defaults) — fall back to the committed template; real keys come from
+        # st.secrets/.env via os.getenv at point of use.
+        path = P("config/settings.example.yaml")
+    with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 
