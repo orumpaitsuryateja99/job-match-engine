@@ -56,6 +56,15 @@ def _load_dotenv():
                     os.environ[k] = v
     except Exception:
         pass
+    # On Streamlit Community Cloud there's no .env file — keys live in the app's
+    # Secrets manager instead, exposed via st.secrets. Mirror them into os.environ
+    # so the rest of the codebase (which only calls os.getenv) keeps working unchanged.
+    try:
+        for k, v in st.secrets.items():
+            if k and k not in os.environ:
+                os.environ[k] = str(v)
+    except Exception:
+        pass
 
 
 _load_dotenv()
