@@ -1,0 +1,78 @@
+# Job Automation — settings TEMPLATE.
+# Copy to config/settings.yaml and fill in your keys. The real settings.yaml is
+# git-ignored so your API keys never get committed. Every secret below can ALSO be
+# set as an environment variable (preferred for shared machines) — the app reads the
+# env var when the value here is blank.
+
+paths:
+  input_resume: input_resume
+  job_descriptions: job_descriptions
+  tailored_resumes: tailored_resumes
+  applied_jobs: applied_jobs
+  tracker_xlsx: tracker/job_applications.xlsx
+  profile_json: config/profile.json
+  target_companies: config/target_companies.txt
+  source_catalog: config/source_catalog.yaml
+  logs: logs
+
+# Your experience level (new grad = 0). Used by the experience-fit score.
+my_years_experience: 0
+
+# Drop any role whose JD requires MORE than this many years (2 = new-grad-friendly).
+search_max_years: 2
+
+# Fallback sponsor list (used only if config/h1b_sponsors.json is missing).
+# The real settings.yaml ships a long curated list; keep yours there.
+h1b_sponsors: []
+
+# ---- Optional integrations (leave blank to stay fully offline/free) ----
+# Each *_api_key can instead be set via the matching ENV VAR (shown in comments).
+
+adzuna:                       # free key: https://developer.adzuna.com
+  app_id: ""                  # env: ADZUNA_APP_ID
+  app_key: ""                 # env: ADZUNA_APP_KEY
+
+serpapi:                      # SerpApi Google Jobs (structured, full JDs)
+  enabled: true
+  api_key: ""                 # env: SERPAPI_API_KEY
+  location: "United States"
+  gl: "us"
+  hl: "en"
+  pages: 1
+
+jsearch:                      # OpenWeb Ninja / RapidAPI JSearch (structured, full JDs)
+  enabled: true
+  provider: "openwebninja"    # or "rapidapi"
+  api_key: ""                 # env: JSEARCH_API_KEY  (OpenWeb Ninja)
+  rapidapi_key: ""            # env: JSEARCH_RAPIDAPI_KEY
+  country: "us"
+  language: "en"
+  date_posted: "week"
+  pages: 1
+
+# Quota-safe chain: uses ONE provider per run, falls through only when a provider is
+# missing / quota-exhausted / errors. Does NOT combine all limited APIs together.
+job_api_fallback:
+  enabled: true
+  provider_order:
+    - serpapi
+    - jsearch_openweb
+    - jsearch_rapidapi
+    - tavily_discovery
+  max_queries_per_run: 4
+  min_results_before_stop: 0
+
+# Key-gated discovery (LinkedIn / Indeed / Glassdoor / … via a SEARCH API — no scraping).
+discovery:
+  provider: "tavily"          # or "google_pse"
+  tavily_api_key: ""          # env: TAVILY_API_KEY
+  google_api_key: ""          # env: GOOGLE_API_KEY
+  google_cx: ""               # env: GOOGLE_CX
+
+# Tier-B LLM polish for tailoring (off by default; output still fact-validated).
+use_llm: false
+llm_provider: "gemini"
+
+# OPTIONAL true résumé↔JD scoring with Claude (your own Anthropic key + pip install anthropic).
+llm_api_key: ""               # sk-ant-...  (leave blank to disable)
+llm_model: "claude-opus-4-8"

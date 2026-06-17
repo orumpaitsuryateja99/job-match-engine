@@ -1,0 +1,22 @@
+Software Engineer, New Grad (Backend)
+
+About the role
+We're hiring new grad software engineers to build and scale our backend platform.
+You'll design REST APIs, work with relational databases, and ship production services.
+
+What you'll do
+- Build and maintain RESTful APIs and microservices in Python or Java
+- Design and query relational databases (PostgreSQL)
+- Write unit tests and participate in code reviews
+- Deploy services on AWS using Docker and CI/CD pipelines
+- Collaborate in an Agile/Scrum team using Git
+
+What we're looking for
+- BS/MS in Computer Science or related field, graduating 2025–2026
+- Strong fundamentals in data structures, algorithms, and OOP
+- Experience with Python, Java, or Node.js
+- Familiarity with SQL and REST API design
+- 0–2 years of experience
+- Bonus: exposure to Kubernetes, Kafka, or system design
+
+We sponsor H1B visas for qualified candidates.

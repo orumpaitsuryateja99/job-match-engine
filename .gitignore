@@ -1,0 +1,23 @@
+# Secrets & generated data — keep local
+# config/settings.yaml contains API keys; commit settings.example.yaml instead
+config/settings.yaml
+# .env holds optional API keys via env vars; commit .env.example instead
+.env
+# config/profile.json is your parsed resume
+config/profile.json
+input_resume/*
+tailored_resumes/*
+applied_jobs/*
+tracker/*.xlsx
+logs/*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Keep the folder structure (empty-dir markers)
+!**/.gitkeep

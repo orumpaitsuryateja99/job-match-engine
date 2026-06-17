@@ -1,0 +1,3500 @@
+{
+  "version": "2026-05-31",
+  "note": "Curated H1B-sponsor heuristic. confidence=high: large, long-established sponsor with a sustained public H1B record. confidence=medium: likely sponsor with a smaller/shorter record. Matched by exact/alias name. NOT a guarantee that a given role is sponsored \u2014 always verify on MyVisaJobs / H1BGrader before applying.",
+  "sponsors": [
+    {
+      "name": "1Password",
+      "aliases": [
+        "1password"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Abnormal Security",
+      "aliases": [
+        "abnormalsecurity"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Abridge",
+      "aliases": [
+        "abridge"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Accenture",
+      "aliases": [
+        "accenture"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Adobe",
+      "aliases": [
+        "adobe"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Affirm",
+      "aliases": [
+        "affirm"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Airbnb",
+      "aliases": [
+        "airbnb"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Airbyte",
+      "aliases": [
+        "airbyte"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Airtable",
+      "aliases": [
+        "airtable"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Airwallex",
+      "aliases": [
+        "airwallex"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Algolia",
+      "aliases": [
+        "algolia"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Alloy",
+      "aliases": [
+        "alloy"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Alma",
+      "aliases": [
+        "alma"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Amazon",
+      "aliases": [
+        "amazon"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "American Express",
+      "aliases": [
+        "american express",
+        "amex",
+        "kabbage"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Amplitude",
+      "aliases": [
+        "amplitude"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Anthropic",
+      "aliases": [
+        "anthropic"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Anyscale",
+      "aliases": [
+        "anyscale"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Apple",
+      "aliases": [
+        "apple"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Applied Intuition",
+      "aliases": [
+        "appliedintuition"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Aptean",
+      "aliases": [
+        "aptean"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Arcadia",
+      "aliases": [
+        "arcadia"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Asana",
+      "aliases": [
+        "asana"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "AssemblyAI",
+      "aliases": [
+        "assemblyai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "AT&T",
+      "aliases": [
+        "at&t",
+        "att"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Atlan",
+      "aliases": [
+        "atlan"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Attentive",
+      "aliases": [
+        "attentive"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Aurora Solar",
+      "aliases": [
+        "aurorasolar"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Bandwidth",
+      "aliases": [
+        "bandwidth"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Baseten",
+      "aliases": [
+        "baseten"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Benchling",
+      "aliases": [
+        "benchling"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Betterment",
+      "aliases": [
+        "betterment"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data with a smaller/shorter record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-05"
+    },
+    {
+      "name": "Block",
+      "aliases": [
+        "block"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Bloomreach",
+      "aliases": [
+        "bloomreach"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Bosch",
+      "aliases": [
+        "bosch",
+        "bosch group",
+        "boschgroup",
+        "robert bosch",
+        "robert bosch llc"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Public H1B sponsor databases show recent Robert Bosch LCA/H1B filing history. Verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-02"
+    },
+    {
+      "name": "Braze",
+      "aliases": [
+        "braze"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Brex",
+      "aliases": [
+        "brex"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Brilliant",
+      "aliases": [
+        "brilliant"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Browserbase",
+      "aliases": [
+        "browserbase"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Calendly",
+      "aliases": [
+        "calendly"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Capchase",
+      "aliases": [
+        "capchase"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Capgemini",
+      "aliases": [
+        "capgemini"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Cardlytics",
+      "aliases": [
+        "cardlytics"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Carta",
+      "aliases": [
+        "carta"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Carvana",
+      "aliases": [
+        "carvana"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "CDC",
+      "aliases": [
+        "cdc",
+        "centers for disease control"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Federal public-health employer; some roles may qualify for cap-exempt H-1B. Confirm eligibility with HR; verify on h1bdata.info.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Cerebral",
+      "aliases": [
+        "cerebral"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Chainguard",
+      "aliases": [
+        "chainguard"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Character.AI",
+      "aliases": [
+        "character",
+        "characterai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Checkr",
+      "aliases": [
+        "checkr"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Chime",
+      "aliases": [
+        "chime"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "CircleCI",
+      "aliases": [
+        "circleci"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Cisco",
+      "aliases": [
+        "cisco"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "ClickHouse",
+      "aliases": [
+        "clickhouse"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Cloudflare",
+      "aliases": [
+        "cloudflare"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Coalition",
+      "aliases": [
+        "coalition"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Tech employer with a live public job board; likely H1B sponsor. Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Cockroach Labs",
+      "aliases": [
+        "cockroachlabs"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Cognition",
+      "aliases": [
+        "cognition"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Cognizant",
+      "aliases": [
+        "cognizant"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Cohere",
+      "aliases": [
+        "cohere"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Coinbase",
+      "aliases": [
+        "coinbase"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Column",
+      "aliases": [
+        "column"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Commure",
+      "aliases": [
+        "commure"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Confluent",
+      "aliases": [
+        "confluent"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Constant Contact",
+      "aliases": [
+        "constant contact",
+        "constantcontact"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Contentful",
+      "aliases": [
+        "contentful"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Contextual AI",
+      "aliases": [
+        "contextual",
+        "contextualai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Coupa",
+      "aliases": [
+        "coupa",
+        "coupa software",
+        "llamasoft"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Coupang",
+      "aliases": [
+        "coupang"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established US tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Cox Enterprises",
+      "aliases": [
+        "cox enterprises",
+        "cox communications",
+        "cox"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Cresta",
+      "aliases": [
+        "cresta"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Cruise",
+      "aliases": [
+        "cruise"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Crusoe",
+      "aliases": [
+        "crusoe"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Cube",
+      "aliases": [
+        "cube"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Current",
+      "aliases": [
+        "current"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Cursor",
+      "aliases": [
+        "cursor"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Dashlane",
+      "aliases": [
+        "dashlane"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Funded tech employer; appears as a likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Databricks",
+      "aliases": [
+        "databricks"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Datadog",
+      "aliases": [
+        "datadog"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Dave",
+      "aliases": [
+        "dave"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Decagon",
+      "aliases": [
+        "decagon"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Deel",
+      "aliases": [
+        "deel"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Deepgram",
+      "aliases": [
+        "deepgram"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Deloitte",
+      "aliases": [
+        "deloitte"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Delta Air Lines",
+      "aliases": [
+        "delta air lines",
+        "delta"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Dexterity",
+      "aliases": [
+        "dexterity"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Dialpad",
+      "aliases": [
+        "dialpad"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Discord",
+      "aliases": [
+        "discord"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Divergent",
+      "aliases": [
+        "divergent"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Doordash",
+      "aliases": [
+        "doordash"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Doppler",
+      "aliases": [
+        "doppler"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Drata",
+      "aliases": [
+        "drata"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Dremio",
+      "aliases": [
+        "dremio"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Dropbox",
+      "aliases": [
+        "dropbox"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "E2B",
+      "aliases": [
+        "e2b"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "E2open",
+      "aliases": [
+        "e2open",
+        "blujay",
+        "blujay solutions"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Educative",
+      "aliases": [
+        "educative"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Elastic",
+      "aliases": [
+        "elastic"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Elevance Health",
+      "aliases": [
+        "elevance health",
+        "anthem"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "ElevenLabs",
+      "aliases": [
+        "elevenlabs"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Emory University",
+      "aliases": [
+        "emory university",
+        "emory",
+        "emory healthcare"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Equifax",
+      "aliases": [
+        "equifax"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "EY",
+      "aliases": [
+        "ey",
+        "ernst young",
+        "ernst and young"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Faire",
+      "aliases": [
+        "faire"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Fastly",
+      "aliases": [
+        "fastly"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Figma",
+      "aliases": [
+        "figma"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Figure",
+      "aliases": [
+        "figure"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Fingerprint",
+      "aliases": [
+        "fingerprint"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Finix",
+      "aliases": [
+        "finix"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Fireworks AI",
+      "aliases": [
+        "fireworksai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "FIS",
+      "aliases": [
+        "fis",
+        "fis global",
+        "worldpay"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Fiserv",
+      "aliases": [
+        "fiserv"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Fivetran",
+      "aliases": [
+        "fivetran"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "FleetCor",
+      "aliases": [
+        "fleetcor",
+        "corpay"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Flexport",
+      "aliases": [
+        "flexport"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Form Energy",
+      "aliases": [
+        "formenergy"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Gamma",
+      "aliases": [
+        "gamma"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Gemini",
+      "aliases": [
+        "gemini"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "GitLab",
+      "aliases": [
+        "gitlab"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Glean",
+      "aliases": [
+        "glean"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Tech employer with a live public job board; likely H1B sponsor. Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Global Payments",
+      "aliases": [
+        "global payments"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Goldman Sachs",
+      "aliases": [
+        "goldman sachs",
+        "greensky"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Google",
+      "aliases": [
+        "google"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Gopuff",
+      "aliases": [
+        "gopuff"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Gorgias",
+      "aliases": [
+        "gorgias"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Grady Health System",
+      "aliases": [
+        "grady health system",
+        "grady health"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Grafana Labs",
+      "aliases": [
+        "grafana labs",
+        "grafanalabs",
+        "grafana"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data with a smaller/shorter record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-05"
+    },
+    {
+      "name": "Granola",
+      "aliases": [
+        "granola"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Greenhouse",
+      "aliases": [
+        "greenhouse"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established US tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Gusto",
+      "aliases": [
+        "gusto"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Harvey",
+      "aliases": [
+        "harvey"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "HCL Technologies",
+      "aliases": [
+        "hcl technologies",
+        "hcl"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Headway",
+      "aliases": [
+        "headway"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Highnote",
+      "aliases": [
+        "highnote"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Hightouch",
+      "aliases": [
+        "hightouch"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Human Interest",
+      "aliases": [
+        "human interest",
+        "humaninterest"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "IBM",
+      "aliases": [
+        "ibm",
+        "international business machines"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Ideogram",
+      "aliases": [
+        "ideogram"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Imbue",
+      "aliases": [
+        "imbue"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "InComm Payments",
+      "aliases": [
+        "incomm payments",
+        "incomm"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Infisical",
+      "aliases": [
+        "infisical"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Infor",
+      "aliases": [
+        "infor"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Infosys",
+      "aliases": [
+        "infosys"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Inngest",
+      "aliases": [
+        "inngest"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Insight Global",
+      "aliases": [
+        "insight global"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Instabase",
+      "aliases": [
+        "instabase"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Instacart",
+      "aliases": [
+        "instacart"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Intel",
+      "aliases": [
+        "intel"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Intercom",
+      "aliases": [
+        "intercom"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Intercontinental Exchange",
+      "aliases": [
+        "intercontinental exchange",
+        "ice"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Invacare",
+      "aliases": [
+        "invacare"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Iterable",
+      "aliases": [
+        "iterable"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "JFrog",
+      "aliases": [
+        "jfrog"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Justworks",
+      "aliases": [
+        "justworks"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established US tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Klaviyo",
+      "aliases": [
+        "klaviyo"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Komodo Health",
+      "aliases": [
+        "komodohealth"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "KPMG",
+      "aliases": [
+        "kpmg"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "LangChain",
+      "aliases": [
+        "langchain"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Lattice",
+      "aliases": [
+        "lattice"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "LaunchDarkly",
+      "aliases": [
+        "launchdarkly"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Life360",
+      "aliases": [
+        "life360"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Lightdash",
+      "aliases": [
+        "lightdash"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Linear",
+      "aliases": [
+        "linear"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Lithic",
+      "aliases": [
+        "lithic"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Logility",
+      "aliases": [
+        "logility"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Lookout",
+      "aliases": [
+        "lookout"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Tech employer with a live public job board; likely H1B sponsor. Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Lyft",
+      "aliases": [
+        "lyft"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Manhattan Associates",
+      "aliases": [
+        "manhattan associates"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Marqeta",
+      "aliases": [
+        "marqeta"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Mastercard",
+      "aliases": [
+        "mastercard",
+        "mastercard international incorporated",
+        "mastercard technologies"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Public H1B sponsor databases show recent Mastercard LCA/H1B filing history, including software roles. Verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-02"
+    },
+    {
+      "name": "Material Security",
+      "aliases": [
+        "material",
+        "materialsecurity"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Materialize",
+      "aliases": [
+        "materialize"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Funded tech employer; appears as a likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "MedAssets",
+      "aliases": [
+        "medassets"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Mercor",
+      "aliases": [
+        "mercor"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Mercury",
+      "aliases": [
+        "mercury"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Meta",
+      "aliases": [
+        "meta"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Microsoft",
+      "aliases": [
+        "microsoft"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Middesk",
+      "aliases": [
+        "middesk"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Mintlify",
+      "aliases": [
+        "mintlify"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Mistral AI",
+      "aliases": [
+        "mistral",
+        "mistralai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Mixpanel",
+      "aliases": [
+        "mixpanel"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Modal",
+      "aliases": [
+        "modal"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Modern Treasury",
+      "aliases": [
+        "moderntreasury"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "MongoDB",
+      "aliases": [
+        "mongodb"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Mosaic",
+      "aliases": [
+        "mosaic"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "MotherDuck",
+      "aliases": [
+        "motherduck"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Motive",
+      "aliases": [
+        "motive"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Movable Ink",
+      "aliases": [
+        "movable ink",
+        "movableink"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Navan",
+      "aliases": [
+        "navan",
+        "tripactions"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established US tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "NCR Voyix",
+      "aliases": [
+        "ncr voyix",
+        "ncr",
+        "ncr atleos"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Neo4j",
+      "aliases": [
+        "neo4j"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Neon",
+      "aliases": [
+        "neon"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "NerdWallet",
+      "aliases": [
+        "nerdwallet"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Netlify",
+      "aliases": [
+        "netlify"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "New Relic",
+      "aliases": [
+        "new relic",
+        "newrelic"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Nextdoor",
+      "aliases": [
+        "nextdoor"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Nextiva",
+      "aliases": [
+        "nextiva"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Notable",
+      "aliases": [
+        "notable"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Notion",
+      "aliases": [
+        "notion"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Novo",
+      "aliases": [
+        "novo"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Nuro",
+      "aliases": [
+        "nuro"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Nuvation Bio",
+      "aliases": [
+        "nuvation bio",
+        "nuvation"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Nvidia",
+      "aliases": [
+        "nvidia"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Okta",
+      "aliases": [
+        "okta"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, sustained public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-05"
+    },
+    {
+      "name": "One Network Enterprises",
+      "aliases": [
+        "one network enterprises",
+        "one network"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "OneTrust",
+      "aliases": [
+        "onetrust"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Ooma",
+      "aliases": [
+        "ooma"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "OpenAI",
+      "aliases": [
+        "openai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Oracle",
+      "aliases": [
+        "oracle"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Orca Security",
+      "aliases": [
+        "orca",
+        "orca security"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Oscar Health",
+      "aliases": [
+        "oscar",
+        "oscarhealth"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Oura",
+      "aliases": [
+        "oura"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Oyster",
+      "aliases": [
+        "oyster"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "PagerDuty",
+      "aliases": [
+        "pagerduty"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Palantir",
+      "aliases": [
+        "palantir",
+        "palantir technologies"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, sustained public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-05"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "aliases": [
+        "palo alto networks"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Parafin",
+      "aliases": [
+        "parafin"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Partiful",
+      "aliases": [
+        "partiful"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Path Robotics",
+      "aliases": [
+        "pathrobotics"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "PatientPoint",
+      "aliases": [
+        "patientpoint"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "PayPal",
+      "aliases": [
+        "paypal",
+        "paypal inc",
+        "paypal, inc."
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "MyVisaJobs shows recent PayPal LCA/H1B filing history. Verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-02"
+    },
+    {
+      "name": "PayrailZ",
+      "aliases": [
+        "payrailz"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Paysign",
+      "aliases": [
+        "paysign"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Peak Technologies",
+      "aliases": [
+        "peak technologies"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Peloton",
+      "aliases": [
+        "peloton"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established US tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Perplexity",
+      "aliases": [
+        "perplexity"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Persona",
+      "aliases": [
+        "persona"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Philo",
+      "aliases": [
+        "philo"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Photoroom",
+      "aliases": [
+        "photoroom"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Physical Intelligence",
+      "aliases": [
+        "physicalintelligence"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Piedmont Healthcare",
+      "aliases": [
+        "piedmont healthcare",
+        "piedmont"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Pika",
+      "aliases": [
+        "pika"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Funded tech employer; appears as a likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Pindrop",
+      "aliases": [
+        "pindrop"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Pinecone",
+      "aliases": [
+        "pinecone"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Pinterest",
+      "aliases": [
+        "pinterest"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Plaid",
+      "aliases": [
+        "plaid"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "PlanetScale",
+      "aliases": [
+        "planetscale"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Poolside",
+      "aliases": [
+        "poolside"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "PostHog",
+      "aliases": [
+        "posthog"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Postman",
+      "aliases": [
+        "postman"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "project44",
+      "aliases": [
+        "project44"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Funded tech employer; appears as a likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "PwC",
+      "aliases": [
+        "pwc",
+        "pricewaterhousecoopers"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Qualcomm",
+      "aliases": [
+        "qualcomm"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Railway",
+      "aliases": [
+        "railway"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Ramp",
+      "aliases": [
+        "ramp"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Reddit",
+      "aliases": [
+        "reddit"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Redis",
+      "aliases": [
+        "redis"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Redwood Materials",
+      "aliases": [
+        "redwoodmaterials"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Relay",
+      "aliases": [
+        "relay"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Remote",
+      "aliases": [
+        "remote"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Render",
+      "aliases": [
+        "render"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Replit",
+      "aliases": [
+        "replit"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Resend",
+      "aliases": [
+        "resend"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Rho",
+      "aliases": [
+        "rho"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Rippling",
+      "aliases": [
+        "rippling"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Robinhood",
+      "aliases": [
+        "robinhood"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Roblox",
+      "aliases": [
+        "roblox"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Rubrik",
+      "aliases": [
+        "rubrik",
+        "ionic security"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "RunPod",
+      "aliases": [
+        "runpod"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Runway",
+      "aliases": [
+        "runway"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Funded tech employer; appears as a likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Salesforce",
+      "aliases": [
+        "salesforce"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Salesloft",
+      "aliases": [
+        "salesloft"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Samsara",
+      "aliases": [
+        "samsara"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sanity",
+      "aliases": [
+        "sanity"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sap",
+      "aliases": [
+        "sap"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sardine",
+      "aliases": [
+        "sardine"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Saronic",
+      "aliases": [
+        "saronic"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Scale AI",
+      "aliases": [
+        "scaleai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Secureframe",
+      "aliases": [
+        "secureframe"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Semgrep",
+      "aliases": [
+        "semgrep"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sentry",
+      "aliases": [
+        "sentry"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Serve Robotics",
+      "aliases": [
+        "serverobotics"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Servicenow",
+      "aliases": [
+        "servicenow"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sharecare",
+      "aliases": [
+        "sharecare"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Shield AI",
+      "aliases": [
+        "shieldai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sierra",
+      "aliases": [
+        "sierra"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sigma Computing",
+      "aliases": [
+        "sigma computing",
+        "sigma"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Tech employer with a live public job board; likely H1B sponsor. Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "SingleStore",
+      "aliases": [
+        "singlestore"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Skydio",
+      "aliases": [
+        "skydio"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Snapdocs",
+      "aliases": [
+        "snapdocs"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Snowflake",
+      "aliases": [
+        "snowflake"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "SoFi",
+      "aliases": [
+        "sofi"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Southern Company",
+      "aliases": [
+        "southern company"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Spotify",
+      "aliases": [
+        "spotify"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established sponsor with a sustained public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-05"
+    },
+    {
+      "name": "Sprout Social",
+      "aliases": [
+        "sprout social",
+        "sproutsocial"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Starburst",
+      "aliases": [
+        "starburst"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Stax Payments",
+      "aliases": [
+        "stax payments",
+        "stax"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "StockX",
+      "aliases": [
+        "stockx"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Storyblok",
+      "aliases": [
+        "storyblok"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Strava",
+      "aliases": [
+        "strava"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Stripe",
+      "aliases": [
+        "stripe"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sumo Logic",
+      "aliases": [
+        "sumo logic",
+        "sumologic"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Established US tech employer with a public H1B record. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Suno",
+      "aliases": [
+        "suno"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Supabase",
+      "aliases": [
+        "supabase"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sword Health",
+      "aliases": [
+        "swordhealth"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Synthesia",
+      "aliases": [
+        "synthesia"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Sysdig",
+      "aliases": [
+        "sysdig"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Tailscale",
+      "aliases": [
+        "tailscale"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "aliases": [
+        "tata consultancy services",
+        "tcs"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Temporal",
+      "aliases": [
+        "temporal"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Funded tech employer; appears as a likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Terminus",
+      "aliases": [
+        "terminus"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "The Home Depot",
+      "aliases": [
+        "the home depot",
+        "home depot"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Together AI",
+      "aliases": [
+        "togetherai"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Tomo",
+      "aliases": [
+        "tomo"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Tricentis",
+      "aliases": [
+        "tricentis"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Truist",
+      "aliases": [
+        "truist",
+        "suntrust"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Twilio",
+      "aliases": [
+        "twilio"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Twitch",
+      "aliases": [
+        "twitch"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Typeface",
+      "aliases": [
+        "typeface"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Uber",
+      "aliases": [
+        "uber"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Uber Freight",
+      "aliases": [
+        "uber freight",
+        "transplace"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Unison",
+      "aliases": [
+        "unison"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Unit",
+      "aliases": [
+        "unit"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "UnitedHealth Group",
+      "aliases": [
+        "unitedhealth group",
+        "unitedhealth",
+        "optum"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "UPS",
+      "aliases": [
+        "ups",
+        "united parcel service"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Upstart",
+      "aliases": [
+        "upstart"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Valon",
+      "aliases": [
+        "valon"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Vannevar Labs",
+      "aliases": [
+        "vannevarlabs"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Vanta",
+      "aliases": [
+        "vanta"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Vercel",
+      "aliases": [
+        "vercel"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Verkada",
+      "aliases": [
+        "verkada"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Visa",
+      "aliases": [
+        "visa",
+        "visa inc",
+        "visa technology operations",
+        "visa technology and operations",
+        "visa technology & operations",
+        "visa technology & operations llc"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Public H1B sponsor databases show recent Visa Technology & Operations LCA/H1B filing history. Verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-02"
+    },
+    {
+      "name": "Vmware",
+      "aliases": [
+        "vmware"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Waabi",
+      "aliases": [
+        "waabi"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Warner Bros Discovery",
+      "aliases": [
+        "warner bros discovery",
+        "turner",
+        "cnn"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Warp",
+      "aliases": [
+        "warp"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Watershed",
+      "aliases": [
+        "watershed"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Waymo",
+      "aliases": [
+        "waymo"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Wealthfront",
+      "aliases": [
+        "wealthfront"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Wealthsimple",
+      "aliases": [
+        "wealthsimple"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Weaviate",
+      "aliases": [
+        "weaviate"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Webflow",
+      "aliases": [
+        "webflow"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "WellStar Health System",
+      "aliases": [
+        "wellstar health system",
+        "wellstar"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Wipro",
+      "aliases": [
+        "wipro"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Major H-1B filer (Atlanta-area Fortune 500 / IT-services / consulting). Verify the specific role on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Workday",
+      "aliases": [
+        "workday"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "high",
+      "evidence": "Large, long-established H1B sponsor with a sustained public LCA/H1B filing record. Still verify the specific role on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Writer",
+      "aliases": [
+        "writer"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Wunderkind",
+      "aliases": [
+        "wunderkind"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Yotpo",
+      "aliases": [
+        "yotpo"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "US tech employer; likely H1B sponsor (smaller/shorter record). Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-06-06"
+    },
+    {
+      "name": "Yugabyte",
+      "aliases": [
+        "yugabyte",
+        "yugabytedb"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Zapier",
+      "aliases": [
+        "zapier"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    },
+    {
+      "name": "Zetes",
+      "aliases": [
+        "zetes"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Atlanta F-1/OPT/H-1B-friendly employer (per a curated Atlanta hiring guide). Verify on h1bdata.info / MyVisaJobs before applying.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "name": "Zoox",
+      "aliases": [
+        "zoox"
+      ],
+      "h1b_sponsor": true,
+      "confidence": "medium",
+      "evidence": "Appears in H1B sponsor data, but a smaller or shorter track record \u2014 likely, not certain. Verify on MyVisaJobs / H1BGrader before applying.",
+      "last_verified": "2026-05-31"
+    }
+  ]
+}

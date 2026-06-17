@@ -1,0 +1,12 @@
+# Clean SaaS/dashboard theme. Streamlit applies these natively to checkboxes,
+# sliders, multiselect chips, radios, etc. — so the accent is consistent without
+# CSS hacks (which were bleeding a background onto checkbox LABELS).
+[theme]
+primaryColor = "#2563eb"             # restrained indigo-blue accent
+backgroundColor = "#f8fafc"          # light neutral page
+secondaryBackgroundColor = "#ffffff" # white widgets / form cards
+textColor = "#111827"                # near-black primary text
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"

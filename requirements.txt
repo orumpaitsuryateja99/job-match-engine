@@ -1,0 +1,14 @@
+# Job Automation — Python dependencies (Python 3.10+)
+streamlit>=1.33
+markitdown>=0.1      # primary PDF/DOCX → clean Markdown extractor (fewer LLM tokens)
+PyMuPDF>=1.23        # resume PDF parsing fallback (imported as 'fitz')
+python-docx>=1.1     # resume .docx parsing fallback
+openpyxl>=3.1        # the Excel tracker
+reportlab>=4.0       # tailored resume PDF generation
+requests>=2.31       # Greenhouse / Lever / Adzuna API calls
+PyYAML>=6.0          # settings.yaml
+# NOTE: pandas is NOT listed directly — it is not imported by our code. It ships
+# transitively with streamlit (which requires pandas>=1.4) and powers st.dataframe
+# in the Tracker tab. Pillow (nicer PDF previews) is likewise optional & guarded.
+# anthropic>=0.40   # OPTIONAL — only for the "AI-score with Claude" relevance feature
+#                   # (Match & Score). Install + set llm_api_key in settings.yaml to enable.

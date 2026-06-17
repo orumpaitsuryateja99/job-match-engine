@@ -1,0 +1,312 @@
+# Target H1B-sponsoring companies to pull from their public job boards.
+# Format:  ats,token,Company Name
+#   ats = greenhouse | lever | ashby | workday | smartrecruiters
+#
+# The "token" is the company's slug in that ATS's public API:
+#   Greenhouse:      https://boards-api.greenhouse.io/v1/boards/<token>/jobs
+#   Lever:           https://api.lever.co/v0/postings/<token>?mode=json
+#   Ashby:           https://api.ashbyhq.com/posting-api/job-board/<token>
+#   Workday:         token = "tenant|wdN|site" (each company runs its own tenant);
+#                    find it in the careers URL <tenant>.<wdN>.myworkdayjobs.com/<site>
+#                    e.g. nvidia|wd5|NVIDIAExternalCareerSite  (public CXS JSON, no auth)
+#   SmartRecruiters: token = companyId  (api.smartrecruiters.com/v1/companies/<id>/postings)
+#
+# ✅ Every line below was VERIFIED on 2026-05-30 to return a LIVE public board.
+# ⚠️ STILL VERIFY H1B sponsorship per company (H1BGrader / myvisajobs) before
+#    relying on the ✅ flag — a live board does NOT prove current sponsorship.
+# ⚠️ Off-season note: entry-level / new-grad reqs are scarce outside Aug–Nov, so
+#    a pull may return little. Lean on the AI-search prompt (Path B) for discovery.
+# Lines starting with # are ignored. Edit freely.
+
+greenhouse,affirm,Affirm
+greenhouse,airbnb,Airbnb
+ashby,airbyte,Airbyte
+greenhouse,airtable,Airtable
+greenhouse,algolia,Algolia
+greenhouse,alloy,Alloy
+greenhouse,amplitude,Amplitude
+greenhouse,anthropic,Anthropic
+lever,anyscale,Anyscale
+greenhouse,appliedintuition,Applied Intuition
+greenhouse,asana,Asana
+greenhouse,attentive,Attentive
+ashby,baseten,Baseten
+ashby,benchling,Benchling
+greenhouse,block,Block
+greenhouse,braze,Braze
+greenhouse,brex,Brex
+greenhouse,calendly,Calendly
+greenhouse,carta,Carta
+greenhouse,carvana,Carvana
+ashby,character,Character.AI
+greenhouse,checkr,Checkr
+greenhouse,chime,Chime
+greenhouse,cloudflare,Cloudflare
+greenhouse,cockroachlabs,Cockroach Labs
+ashby,cohere,Cohere
+ashby,column,Column
+ashby,confluent,Confluent
+greenhouse,contentful,Contentful
+greenhouse,current,Current
+ashby,cursor,Cursor
+greenhouse,databricks,Databricks
+greenhouse,datadog,Datadog
+ashby,dave,Dave
+ashby,decagon,Decagon
+ashby,deel,Deel
+greenhouse,discord,Discord
+greenhouse,dropbox,Dropbox
+greenhouse,elastic,Elastic
+greenhouse,faire,Faire
+greenhouse,figma,Figma
+greenhouse,fingerprint,Fingerprint
+greenhouse,fireworksai,Fireworks AI
+greenhouse,fivetran,Fivetran
+greenhouse,flexport,Flexport
+greenhouse,gemini,Gemini
+greenhouse,gitlab,GitLab
+lever,gopuff,Gopuff
+ashby,gorgias,Gorgias
+greenhouse,gusto,Gusto
+ashby,harvey,Harvey
+greenhouse,instacart,Instacart
+greenhouse,intercom,Intercom
+greenhouse,iterable,Iterable
+greenhouse,klaviyo,Klaviyo
+greenhouse,komodohealth,Komodo Health
+ashby,langchain,LangChain
+greenhouse,lattice,Lattice
+greenhouse,launchdarkly,LaunchDarkly
+greenhouse,life360,Life360
+ashby,linear,Linear
+greenhouse,lyft,Lyft
+greenhouse,marqeta,Marqeta
+greenhouse,mercury,Mercury
+lever,mistral,Mistral AI
+greenhouse,mixpanel,Mixpanel
+ashby,modal,Modal
+ashby,moderntreasury,Modern Treasury
+greenhouse,mongodb,MongoDB
+ashby,nerdwallet,NerdWallet
+greenhouse,netlify,Netlify
+greenhouse,nextdoor,Nextdoor
+ashby,notable,Notable
+ashby,notion,Notion
+greenhouse,nuro,Nuro
+ashby,openai,OpenAI
+greenhouse,oscar,Oscar Health
+ashby,oyster,Oyster
+ashby,perplexity,Perplexity
+ashby,pinecone,Pinecone
+greenhouse,pinterest,Pinterest
+ashby,plaid,Plaid
+greenhouse,planetscale,PlanetScale
+ashby,posthog,PostHog
+greenhouse,postman,Postman
+ashby,railway,Railway
+ashby,ramp,Ramp
+greenhouse,reddit,Reddit
+greenhouse,remote,Remote
+ashby,render,Render
+greenhouse,robinhood,Robinhood
+greenhouse,roblox,Roblox
+greenhouse,samsara,Samsara
+ashby,sanity,Sanity
+greenhouse,scaleai,Scale AI
+ashby,sentry,Sentry
+lever,shieldai,Shield AI
+ashby,sierra,Sierra
+ashby,skydio,Skydio
+ashby,snowflake,Snowflake
+greenhouse,sofi,SoFi
+greenhouse,stripe,Stripe
+ashby,supabase,Supabase
+greenhouse,togetherai,Together AI
+greenhouse,twilio,Twilio
+greenhouse,twitch,Twitch
+ashby,unit,Unit
+greenhouse,upstart,Upstart
+ashby,vanta,Vanta
+greenhouse,vercel,Vercel
+greenhouse,verkada,Verkada
+greenhouse,waymo,Waymo
+lever,wealthfront,Wealthfront
+ashby,wealthsimple,Wealthsimple
+ashby,weaviate,Weaviate
+greenhouse,webflow,Webflow
+ashby,writer,Writer
+ashby,zapier,Zapier
+lever,zoox,Zoox
+
+# ── Batch 2 (startups + more H1B sponsors), verified live 2026-05-31 ──
+greenhouse,abnormalsecurity,Abnormal Security
+greenhouse,alma,Alma
+greenhouse,assemblyai,AssemblyAI
+greenhouse,cerebral,Cerebral
+greenhouse,chainguard,Chainguard
+greenhouse,clickhouse,ClickHouse
+greenhouse,cresta,Cresta
+greenhouse,divergent,Divergent
+greenhouse,dremio,Dremio
+greenhouse,figure,Figure
+greenhouse,headway,Headway
+greenhouse,highnote,Highnote
+greenhouse,hightouch,Hightouch
+greenhouse,imbue,Imbue
+greenhouse,instabase,Instabase
+greenhouse,lithic,Lithic
+greenhouse,pathrobotics,Path Robotics
+greenhouse,redwoodmaterials,Redwood Materials
+greenhouse,runpod,RunPod
+greenhouse,singlestore,SingleStore
+greenhouse,starburst,Starburst
+greenhouse,storyblok,Storyblok
+greenhouse,tailscale,Tailscale
+greenhouse,typeface,Typeface
+greenhouse,vannevarlabs,Vannevar Labs
+greenhouse,warp,Warp
+greenhouse,watershed,Watershed
+greenhouse,yugabyte,YugabyteDB
+lever,arcadia,Arcadia
+lever,dexterity,Dexterity
+lever,finix,Finix
+lever,neon,Neon
+lever,secureframe,Secureframe
+lever,swordhealth,Sword Health
+lever,sysdig,Sysdig
+lever,waabi,Waabi
+ashby,1password,1Password
+ashby,abridge,Abridge
+ashby,airwallex,Airwallex
+ashby,atlan,Atlan
+ashby,aurorasolar,Aurora Solar
+ashby,browserbase,Browserbase
+ashby,capchase,Capchase
+ashby,cognition,Cognition
+ashby,commure,Commure
+ashby,contextual,Contextual AI
+ashby,crusoe,Crusoe
+ashby,cube,Cube
+ashby,deepgram,Deepgram
+ashby,doppler,Doppler
+ashby,drata,Drata
+ashby,e2b,E2B
+ashby,elevenlabs,ElevenLabs
+ashby,formenergy,Form Energy
+ashby,gamma,Gamma
+ashby,granola,Granola
+ashby,ideogram,Ideogram
+ashby,inngest,Inngest
+ashby,lightdash,Lightdash
+ashby,material,Material Security
+ashby,mercor,Mercor
+ashby,middesk,Middesk
+ashby,mintlify,Mintlify
+ashby,motherduck,MotherDuck
+ashby,parafin,Parafin
+ashby,partiful,Partiful
+ashby,persona,Persona
+ashby,photoroom,Photoroom
+ashby,physicalintelligence,Physical Intelligence
+ashby,poolside,Poolside
+ashby,redis,Redis
+ashby,replit,Replit
+ashby,resend,Resend
+ashby,sardine,Sardine
+ashby,saronic,Saronic
+ashby,semgrep,Semgrep
+ashby,serverobotics,Serve Robotics
+ashby,strava,Strava
+ashby,suno,Suno
+ashby,synthesia,Synthesia
+
+# ── Batch 3 (Atlanta F-1/OPT/H-1B-friendly employers w/ a LIVE public board),
+# ── verified 2026-06-01. From the "80 Atlanta Companies" guide; only those with a
+# ── working Greenhouse/Lever/Ashby board are here — most Atlanta giants (Delta, UPS,
+# ── Home Depot, Google, Infosys, Deloitte) use Workday/iCIMS and can't be board-pulled,
+# ── but they ARE in config/h1b_sponsors.json and reachable via Path B (AI search).
+greenhouse,onetrust,OneTrust
+greenhouse,rubrik,Rubrik
+greenhouse,salesloft,Salesloft
+greenhouse,pindropsecurity,Pindrop
+greenhouse,peaktechnologies,Peak Technologies
+lever,coupa,Coupa
+
+# ── Batch 4 (more tech startups w/ a LIVE public board), verified 2026-06-01 ──
+greenhouse,gleanwork,Glean
+greenhouse,sigmacomputing,Sigma Computing
+greenhouse,coalition,Coalition
+greenhouse,lookout,Lookout
+
+# ── Tip: the app reports which slugs failed, so add freely and prune failures.
+# ── Find a slug from the careers URL (boards.greenhouse.io/<slug>,
+# ── jobs.lever.co/<slug>, jobs.ashbyhq.com/<slug>).
+
+# --- Workday tenants (public CXS JSON API) — verified 2026-06-02 to resolve ---
+workday,nvidia|wd5|NVIDIAExternalCareerSite,NVIDIA
+workday,mastercard|wd1|CorporateCareers,Mastercard
+workday,adobe|wd5|external_experienced,Adobe
+workday,salesforce|wd12|External_Career_Site,Salesforce
+workday,paypal|wd1|jobs,PayPal
+workday,workday|wd5|Workday,Workday
+# --- SmartRecruiters tenants (public postings API) — verified 2026-06-02 ---
+smartrecruiters,Visa,Visa
+smartrecruiters,BoschGroup,Bosch
+
+# --- Added 2026-06-05, live-verified to resolve + confirmed in the H1B sponsor DB ---
+greenhouse,okta,Okta
+greenhouse,betterment,Betterment
+lever,spotify,Spotify
+greenhouse,grafanalabs,Grafana Labs
+lever,palantir,Palantir
+
+# --- Added 2026-06-06, bulk batch: each live-verified to resolve + added to H1B DB ---
+greenhouse,jfrog,JFrog
+greenhouse,newrelic,New Relic
+greenhouse,fastly,Fastly
+ashby,temporal,Temporal
+greenhouse,pagerduty,PagerDuty
+greenhouse,neo4j,Neo4j
+greenhouse,project44,project44
+greenhouse,bandwidth,Bandwidth
+ashby,fireworks-ai,Fireworks AI
+greenhouse,dashlane,Dashlane
+greenhouse,circleci,CircleCI
+ashby,pika,Pika
+greenhouse,motive,Motive
+ashby,runway,Runway
+ashby,materialize,Materialize
+
+# --- Added 2026-06-06 batch 2: US H1B-sponsor boards, live-verified ---
+greenhouse,coupang,Coupang
+greenhouse,tripactions,Navan
+greenhouse,justworks,Justworks
+greenhouse,peloton,Peloton
+greenhouse,sumologic,Sumo Logic
+greenhouse,greenhouse,Greenhouse
+greenhouse,humaninterest,Human Interest
+greenhouse,oura,Oura
+ashby,infisical,Infisical
+ashby,mosaic,Mosaic
+ashby,orca,Orca Security
+
+# --- Added 2026-06-06 batch 3: US tech boards, live-verified (verify H1B per-co) ---
+greenhouse,dialpad,Dialpad
+greenhouse,bloomreach,Bloomreach
+ashby,relay,Relay
+ashby,rho,Rho
+greenhouse,yotpo,Yotpo
+ashby,valon,Valon
+greenhouse,movableink,Movable Ink
+greenhouse,stockx,StockX
+greenhouse,constantcontact,Constant Contact
+greenhouse,nextiva,Nextiva
+ashby,tomo,Tomo
+greenhouse,wunderkind,Wunderkind
+ashby,novo,Novo
+greenhouse,ooma,Ooma
+lever,educative,Educative
+greenhouse,philo,Philo
+ashby,snapdocs,Snapdocs
+greenhouse,sproutsocial,Sprout Social
+lever,brilliant,Brilliant

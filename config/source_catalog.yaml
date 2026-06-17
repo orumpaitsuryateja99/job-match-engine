@@ -1,0 +1,51 @@
+# Source catalog for the unified "Search all sources" aggregator (app/aggregator.py).
+#
+# mode:
+#   api        = direct public API import (no key, or optional key)
+#   ats        = company ATS public API, config-driven (Workday/SmartRecruiters)
+#   discovery  = search-lead only — needs a search API key (settings.yaml -> discovery);
+#                without a key these are reached via the site buttons + AI-search paste
+#   ai         = AI-search paste import (Path B)
+#   manual     = user-pasted single job
+#
+# group (drives the UI toggles in Find Jobs):
+#   direct_api     = pulled automatically, no setup
+#   ats_discovery  = company/ATS pulls (Workday/SmartRecruiters) + careers/Google search
+#   discovery      = ToS-restricted boards — key-gated discovery, else buttons + AI paste
+#
+# enabled = default checkbox state. Flip to false to hide a source from the unified search.
+
+sources:
+  greenhouse:      {label: Greenhouse,       mode: api,       group: direct_api,    enabled: true}
+  lever:           {label: Lever,            mode: api,       group: direct_api,    enabled: true}
+  ashby:           {label: Ashby,            mode: api,       group: direct_api,    enabled: true}
+  themuse:         {label: The Muse,         mode: api,       group: direct_api,    enabled: true}
+  adzuna:          {label: Adzuna,           mode: api,       group: direct_api,    enabled: true}   # needs free app_id/app_key
+  jsearch:         {label: JSearch,          mode: api,       group: direct_api,    enabled: true}   # needs OpenWeb Ninja/RapidAPI key
+
+  workday:         {label: Workday,          mode: ats,       group: ats_discovery, enabled: true}
+  smartrecruiters: {label: SmartRecruiters,  mode: ats,       group: ats_discovery, enabled: true}
+  company_careers: {label: Company careers,  mode: discovery, group: ats_discovery, enabled: true}
+  google:          {label: Google postings,  mode: discovery, group: ats_discovery, enabled: true}
+
+  # enabled:true = has a public individual-posting URL pattern we can actually query.
+  # The login-walled boards (Handshake/SubmitX/Hired/Hire Tech) are enabled:false —
+  # a public search returns nothing, so the UI shows them 🔒 (reach via AI-paste).
+  linkedin:        {label: LinkedIn Jobs,    mode: discovery, group: discovery,     enabled: true}
+  indeed:          {label: Indeed,           mode: discovery, group: discovery,     enabled: true}
+  glassdoor:       {label: Glassdoor,        mode: discovery, group: discovery,     enabled: true}
+  dice:            {label: Dice,             mode: discovery, group: discovery,     enabled: true}
+  handshake:       {label: Handshake,        mode: discovery, group: discovery,     enabled: false}
+  jobright:        {label: Jobright AI,      mode: discovery, group: discovery,     enabled: true}
+  submitx:         {label: SubmitX AI,       mode: discovery, group: discovery,     enabled: false}
+  builtin:         {label: Built In,         mode: discovery, group: discovery,     enabled: true}
+  wellfound:       {label: Wellfound,        mode: discovery, group: discovery,     enabled: true}
+  # Naukri disabled: India-focused board — irrelevant for a US H1B hunt, and each
+  # enabled discovery site costs 6 search-API queries per run.
+  naukri:          {label: Naukri,           mode: discovery, group: discovery,     enabled: false}
+  hired:           {label: Hired,            mode: discovery, group: discovery,     enabled: false}
+  hiretech:        {label: Hire Tech,        mode: discovery, group: discovery,     enabled: false}
+  # Grouped multi-site labels (each = ONE query-budget slot for many sites):
+  startup_boards:  {label: Startup boards,        mode: discovery, group: discovery, enabled: true}   # YC / workatastartup / startup.jobs / topstartups.io
+  h1b_opt_boards:  {label: H1B/OPT boards,        mode: discovery, group: discovery, enabled: true}   # MyVisaJobs / OPTnation / Interstride / SkillHire / ApplyRyt / ScoutBetter / TickBig / SubmitX
+  newgrad_aggs:    {label: New-grad aggregators,  mode: discovery, group: discovery, enabled: true}   # newgrad-jobs.com / jobsfornewgrad.com / RippleMatch / Lensa
